@@ -23,5 +23,5 @@ Tratamento de Dados:** Rotulação de coordenadas geométricas (*datasets*) via 
 Fiscalização 24/7:** Cobertura contínua de múltiplos postos de trabalho de forma simultânea.
 Cultura Comportamental:** Estímulo à elevação natural na taxa de conformidade do uso de EPIs através da presença do monitoramento inteligente.
 Resguardo Legal:** Geração de registros e evidências de mídia que auxiliam em auditorias regulatórias e protegem a organização contra passivos trabalhistas.
-"""
+
 
