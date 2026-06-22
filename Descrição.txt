@@ -1,0 +1,4 @@
+Um projeto inicialmente pensando para proteção de colaboradores da CSN. Esse projeto é de autonomia própria.
+Foi criado pensado exclusivamente na segurança de meus colegas de trabalho.
+
+No presente momento penso em desenvolve-lo usando a Rede neural YOLOv8, para a identificação de capacetes do colaborador.

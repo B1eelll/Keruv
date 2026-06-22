@@ -1,0 +1,7 @@
+path: ./datasets/EPI
+train: train/images
+val: val/images
+
+names: 
+  0: Capacete
+  1: Sem capacete
