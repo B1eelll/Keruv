@@ -1,4 +1,27 @@
-Um projeto inicialmente pensando para proteção de colaboradores da CSN. Esse projeto é de autonomia própria.
-Foi criado pensado exclusivamente na segurança de meus colegas de trabalho.
+Sistema Keruv - Monitoramento Inteligente de Segurança
 
-No presente momento penso em desenvolve-lo usando a Rede neural YOLOv8, para a identificação de capacetes do colaborador.
+O Sistema Keruv é uma solução de inteligência artificial voltada para a **segurança do trabalho e prevenção de acidentes em ambientes industriais de alta periculosidade**. Utilizando técnicas avançadas de **Visão Computacional**, o software realiza o monitoramento automatizado e contínuo para garantir a conformidade e a mitigação de riscos operacionais em tempo real.
+
+O objetivo central do sistema é atuar de forma preventiva na fiscalização de Equipamentos de Proteção Individual (EPIs), reduzindo a dependência da supervisão humana direta e gerando dados estatísticos valiosos para a Engenharia de Confiabilidade e Gestão de Riscos.
+
+🚀 Principais Funcionalidades
+
+Detecção em Tempo Real:** Análise instantânea de transmissões de vídeo para identificar o uso correto de capacetes e outros itens de segurança obrigatórios.
+Alertas Visuais Dinâmicos:** Criação automática de caixas delimitadoras (*bounding boxes*) coloridas ao redor dos objetos detectados, facilitando a identificação imediata de desvios.
+Filtro de Confiança Customizável:** Algoritmo calibrado para exibir alertas e tomar ações apenas quando o grau de certeza matemática da rede neural atingir os parâmetros de segurança estabelecidos no código.
+Potencial de Automação Integrada:** Arquitetura projetada para permitir integração com sistemas físicos de barreira (como o bloqueio de catracas ou acionamento de sirenes) em caso de acessos irregulares ou detecção de incidentes (como colaboradores desmaiados).
+
+🛠️ Tecnologias Utilizadas
+
+inguagem Principal:** Python
+Framework de Visão Computacional:** Ultralytics YOLOv8 (Arquitetura *Nano* — otimizada para baixo consumo de processamento e alta performance em hardware padrão)
+Ambiente e Ferramentas:** Visual Studio Code, Git e GitHub
+Tratamento de Dados:** Rotulação de coordenadas geométricas (*datasets*) via MakeSense.ai
+
+📈 Impacto Estratégico
+
+Fiscalização 24/7:** Cobertura contínua de múltiplos postos de trabalho de forma simultânea.
+Cultura Comportamental:** Estímulo à elevação natural na taxa de conformidade do uso de EPIs através da presença do monitoramento inteligente.
+Resguardo Legal:** Geração de registros e evidências de mídia que auxiliam em auditorias regulatórias e protegem a organização contra passivos trabalhistas.
+"""
+
